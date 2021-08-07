@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+<F2>	init.vim	/^map <F2> :NERDTreeToggle<CR>$/;"	m
+deopleteCompleteDoneAu	init.vim	/^augroup deopleteCompleteDoneAu$/;"	a
+g:NERDSpaceDElims	init.vim	/^let g:NERDSpaceDElims = 1 " Agregar un espacio despues del limitador del comentario$/;"	v
+g:NERDTreeChDirMode	init.vim	/^let g:NERDTreeChDirMode = 2 " Cambia el directorio actual al nodo padre actual$/;"	v
+g:NERDTrimTrailingWhitespace	init.vim	/^let g:NERDTrimTrailingWhitespace = 1 " Quitar espacios al quitar comentario$/;"	v
+g:SuperTabDefaultCompletionType	init.vim	/^let g:SuperTabDefaultCompletionType = '<c-n>'$/;"	v
+g:UltiSnipsExpandTrigger	init.vim	/^let g:UltiSnipsExpandTrigger = '<c-j>'$/;"	v
+g:UltiSnipsJumpBackwardTrigger	init.vim	/^let g:UltiSnipsJumpBackwardTrigger = '<c-k>'$/;"	v
+g:UltiSnipsJumpForwardTrigger	init.vim	/^let g:UltiSnipsJumpForwardTrigger = '<c-j>'$/;"	v
+g:airline#extension#tabline#fnamemod	init.vim	/^let g:airline#extension#tabline#fnamemod = ':t' " Mostrar Solo el nombre del archivo$/;"	v
+g:airline#extensions#tabline#enabled	init.vim	/^let g:airline#extensions#tabline#enabled = 1 " Mostrar buffers abiertos como pestañas$/;"	v
+g:airline_powerline_fonts	init.vim	/^let g:airline_powerline_fonts = 1$/;"	v
+g:ale_echo_msg_error_str	init.vim	/^let g:ale_echo_msg_error_str = 'E'$/;"	v
+g:ale_echo_msg_format	init.vim	/^let g:ale_echo_msg_format = '[%linter%] %s [%severity%]'$/;"	v
+g:ale_echo_msg_warning_str	init.vim	/^let g:ale_echo_msg_warning_str = 'W'$/;"	v
+g:deoplete#enable_at_startup	init.vim	/^let g:deoplete#enable_at_startup = 1$/;"	v
+g:echodoc_enable_at_startup	init.vim	/^let g:echodoc_enable_at_startup = 1$/;"	v
+g:gutentags_ctags_tagfile	init.vim	/^let g:gutentags_ctags_tagfile = '.tags'$/;"	v
+g:identLine_bufNameExclude	init.vim	/^let g:identLine_bufNameExclude = ['NERD_tree.*', 'term:.*']$/;"	v
+g:identLine_fileTypeExclude	init.vim	/^let g:identLine_fileTypeExclude = ['text', 'sh', 'help', 'terminal']$/;"	v
